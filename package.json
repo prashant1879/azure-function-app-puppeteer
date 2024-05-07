@@ -1,0 +1,19 @@
+{
+  "name": "azure-function-app-puppeteer-pdf",
+  "version": "1.0.0",
+  "description": "Create pdf from HTML/website",
+  "author": "Prashant Suthar",
+  "main": "./index.js",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/functions": "^4.0.0",
+    "puppeteer": "^22.8.0",
+    "puppeteer-core": "^22.8.0"
+  },
+  "devDependencies": {
+    "azure-functions-core-tools": "^4.x"
+  }
+}
