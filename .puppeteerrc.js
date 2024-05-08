@@ -1,4 +1,4 @@
-// .puppeteerrc.cjs
+// .puppeteerrc.js
 const path = require('path');
 
 module.exports = {
