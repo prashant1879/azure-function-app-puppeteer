@@ -36,7 +36,7 @@ Before running this project, ensure you have the following installed:
 4. Run the Azure Functions app locally:
 
    ```bash
-   npm start
+   func start
    ```
 
 5. Open your browser and navigate to `http://localhost:7071/api/screenshot?url=https://example.com` to trigger the function. Replace `https://example.com` with the URL you want to take a screenshot of.
