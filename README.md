@@ -18,7 +18,7 @@ Before running this project, ensure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-repo/azure-function-app-puppeteer.git
+   git clone [https://github.com/your-repo/azure-function-app-puppeteer.git](https://github.com/prashant1879/azure-function-app-puppeteer.git)
    ```
 
 2. Navigate into the project directory:
