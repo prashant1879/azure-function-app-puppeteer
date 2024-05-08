@@ -1,4 +1,3 @@
-// const html_to_pdf = require('html-pdf-node');
 const puppeteer = require('puppeteer');
 
 module.exports = async function (context, req) {
